@@ -1,0 +1,5 @@
+name: DonkeyDupe
+version: 1.0
+author: MOMIN5
+main : com.momin5.donkeydupe.DonkeyDupe
+api-version: 1.16
